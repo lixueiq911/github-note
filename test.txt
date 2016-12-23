@@ -1,7 +1,0 @@
-function auto(){
-
-	div.onclick = function(){
-
-	}
-
-}
