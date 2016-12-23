@@ -6,6 +6,4 @@ function(){
 	
 	change -05
 
-	last change
-
 }
